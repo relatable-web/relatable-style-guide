@@ -1,6 +1,6 @@
 # Relatable style guide
 
-# About
+## About
 
 This is a place for building out the visual elements of Relatable websites. 
 
